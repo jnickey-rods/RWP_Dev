@@ -1,0 +1,17 @@
+app/code/local/MDN
+app/code/local/Philipminix
+app/design/adminhtml/default/default/layout/ExtensionConflict.xml
+app/design/adminhtml/default/default/template/ExtensionConflict
+app/etc/modules/MDN_ExtensionConflict.xml
+app/etc/modules/Philipminix_Commercebug.xml
+app/etc/local.xml
+app/etc/local.xml.additional
+app/etc/local.xml.template
+app/etc/enterprise.xml
+js/commercebug
+media/
+var/
+.settings
+.project
+.buildpath
+/nbproject/private/
